@@ -28,7 +28,7 @@ The application is developed using Java and the data is stored on an MS access d
 ![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/7.PNG?raw=true)
 
 #### 7. Help:
-![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/6.PNG?raw=true)
+![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/5.PNG?raw=true)
 
 #### 8. Managing user account:
-![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/7.PNG?raw=true)
+![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/8.PNG?raw=true)
