@@ -11,3 +11,6 @@ The application is developed using Java and the data is stored on an MS access d
 
 #### 1. The user is required to Login
 ![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/1.PNG?raw=true)
+
+#### 2. Home Screen
+![alt text](https://github.com/Sinoxolo1408/ManagementSystem/blob/master/4.PNG?raw=true)
