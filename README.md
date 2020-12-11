@@ -2,7 +2,7 @@
 A desktop application to manage(store, update and delete) records of a private non-profit organisation.
 
 ## Requirements
-
+To run the application double click on the Home.exe file.
 
 ## Development
 The application is developed using Java and the data is stored on an MS access database file.
